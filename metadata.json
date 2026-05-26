@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Advisor Agent",
+  "description": "An AI career planning, resume consultation, and interview simulator agent for college undergraduates and fresh graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
